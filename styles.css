@@ -146,3 +146,52 @@ h3{
     text-align: center;
     margin-left: 600px;
 }
+
+.fourth-section{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-container{
+    background-color: #3882f6;
+    width: 75%;
+    height: 40%;
+    display: flex;
+    flex-direction: row;
+}
+
+.left{
+    width: 75%;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+h4{
+    font-size: 24px;
+    color: white;
+}
+
+.sign-up{
+    font-size: 18px;
+    color: white;
+}
+
+.right{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.last-button{
+    background-color: #3882f6;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
